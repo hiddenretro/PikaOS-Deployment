@@ -56,7 +56,6 @@ flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.github.iwalton3.jellyfin-media-player -y
 flatpak install flathub media.emby.EmbyTheater -y
 flatpak install flathub org.gimp.GIMP -y
-flatpak install flathub org.videolan.VLC -y
 flatpak install flathub de.haeckerfelix.Shortwave -y
 flatpak install flathub tech.feliciano.pocket-casts -y
 flatpak install flathub com.obsproject.Studio -y
