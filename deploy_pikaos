@@ -79,6 +79,7 @@ flatpak install flathub io.github.giantpinkrobots.flatsweep -y
 flatpak install flathub org.gnome.World.PikaBackup -y
 flatpak install flathub com.spotify.Client -y
 flatpak install flathub org.mozilla.Thunderbird -y
+flatpak install flathub io.github.tobagin.digger -y
 
 
 
